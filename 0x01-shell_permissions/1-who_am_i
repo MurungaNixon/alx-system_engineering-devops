@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-who am i
-=======
-su 1-who_am_i
-
->>>>>>> 6aa238962a8018bad6a7a9a29717ae6a3a1af623
+whoami
